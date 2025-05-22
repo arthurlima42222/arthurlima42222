@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur , also know as Lima on the Web. I'm a backend developer passionate about Java and C.<br><br>Learning : Java and Lua.</p>
+<p align="left">My name is Arthur , also know as Lima on the Web. I'm a backend developer passionate about Java and C.<br><br>Learning : Java and Python.</p>
 
 ###
 
