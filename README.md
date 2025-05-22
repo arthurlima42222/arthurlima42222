@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arthur, also known as Lima on the Web. I'm a backend developer passionate about Java and C.<br><br>Learning: Java and Python.</p>
+<p align="left">My name is Arthur , also know as Lima on the Web. I'm a backend developer passionate about Java and C.<br><br>Learning : Java and Python.</p>
 
 ###
 
@@ -22,10 +22,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/TnCIDBDIH4wAAAAd/polar-bear-meme.gif"  />
+</div>
+
+###
